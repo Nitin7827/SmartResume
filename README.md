@@ -6,15 +6,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
-
-**Elevate your resume to the next level with the power of AI. Get instant analysis, data-driven feedback, and tailor your resume to any job description in seconds.**
-
-![SmartResume Demo](https://your-link-to-image-or-gif.com/demo.gif)
-
----
 
 ### 🌐 Live Demo
 
@@ -27,12 +20,7 @@
 1.  [About The Project](#-about-the-project)
 2.  [Key Features](#-key-features)
 3.  [Tech Stack](#️-tech-stack)
-4.  [Getting Started](#-getting-started)
-5.  [Environment Variables](#-environment-variables)
-6.  [API Endpoints](#-api-endpoints)
-7.  [License](#-license)
-8.  [Contact](#-contact)
-
+4.  [Environment Variables](#-environment-variables)
 ---
 
 ### 📖 About The Project
@@ -61,49 +49,6 @@ This project is built with a modern MERN stack and other leading technologies.
 | **Tailwind CSS** | **Express.js** | **Mongoose** | **JWT & bcrypt.js** |
 | **React Router** | | | |
 | **Axios** | | | |
-
----
-
-### 🚀 Getting Started
-
-This guide will walk you through setting up a local development environment.
-
-#### Prerequisites
-
-* **Git**: To clone the repository. [**Download Git here**](https://git-scm.com/downloads).
-* **Node.js**: `v18.x` or later is recommended. [**Download Node.js here**](https://nodejs.org/en/download).
-
-#### Installation & Setup
-
-1.  **📂 Clone the Repository**
-    ```sh
-    git clone [https://github.com/aaditya0004/smart-resume-app.git](https://github.com/aaditya0004/smart-resume-app.git)
-    cd smart-resume-app
-    ```
-
-2.  **⚙️ Set Up the Backend Server**
-    ```sh
-    # Navigate to the server folder
-    cd server
-    # Install all required packages
-    npm install
-    # Create a .env file and add your secret variables
-    touch .env
-    ```
-
-3.  **🖥️ Set Up the Frontend Client**
-    ```sh
-    # Open a new terminal and navigate to the client folder
-    cd ../client
-    # Install all required packages
-    npm install
-    # Create a .env file and add your API URL
-    touch .env
-    ```
-
-4.  **▶️ Run the Application**
-    * In the **backend** (`/server`) terminal: `npm start`
-    * In the **frontend** (`/client`) terminal: `npm run dev`
 
 ---
 
